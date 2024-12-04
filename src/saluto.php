@@ -4,3 +4,6 @@
   print "buonasera";
   print "prova fork";
 ?>  
+<?
+print "ciao"
+?>
